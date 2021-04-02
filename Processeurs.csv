@@ -1,9 +1,9 @@
-Processeur,Fabricant,# Coeurs/Threads,Overclockable,Utilisation recommandée,Prix de vente conseillé,Prix du marché
-i3 10100F,Intel,4c/8t,Non,Polyvalent budget,$97.00,CHF 90.00
-R3 3100,AMD,4c/8t,Oui,Polyvalent budget,$99.00,CHF 110.00
+Processeur,Fabricant,# Coeurs/Threads,Overclockable,Utilisation recommandÃ©e,Prix de vente conseillÃ©,Prix du marchÃ©
+i3 10100F,Intel,4c/8t,Non,Budget,$97.00,CHF 90.00
+R3 3100,AMD,4c/8t,Oui,Budget,$99.00,CHF 110.00
 i5 10400F,Intel,6c/12t,Non,Gaming,$157.00,CHF 140.00
-i5 10600KF,Intel,6c/12t,Oui,Polyvalent,$237.00-247.00,CHF 190.00
-R5 3600,AMD,6c/12t,Oui,Polyvalent,$199.00,CHF 200.00
+i5 10600KF,Intel,6c/12t,Oui,Polyvalent moyen de gamme,$237.00-247.00,CHF 190.00
+R5 3600,AMD,6c/12t,Oui,Polyvalent moyen de gamme,$199.00,CHF 200.00
 i7 10700KF,Intel,8c/16t,Oui,Polyvalent,$349.00-359.00,CHF 300.00
-R9 5900X,AMD,12c/24t,Oui,Productivité,$549.00,CHF 550.00
-R9 5950X,AMD,16c/32t,Oui,Productivité,$799.00,CHF 800.00
+R9 5900X,AMD,12c/24t,Oui,ProductivitÃ©,$549.00,CHF 550.00
+R9 5950X,AMD,16c/32t,Oui,ProductivitÃ©,$799.00,CHF 800.00
